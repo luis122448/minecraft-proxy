@@ -1,0 +1,5 @@
+# Configuración básica de SSH
+PermitRootLogin yes
+PasswordAuthentication yes
+AllowTcpForwarding yes
+GatewayPorts yes
